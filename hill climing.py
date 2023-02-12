@@ -19,3 +19,4 @@ def f(x):
 best_x, best_y = hill_climbing(f, 0)
 print("Best x:", best_x)
 print("Best y:", best_y)
+
