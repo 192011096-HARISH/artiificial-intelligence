@@ -30,3 +30,4 @@ solution = [['O', '0'],
             ['R', '8'],
             ['S', '9']]
 isCryptSolution(crypt, solution)
+
