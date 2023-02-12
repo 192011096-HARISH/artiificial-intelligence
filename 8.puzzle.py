@@ -34,3 +34,4 @@ if _name_ == "_main_":
         direction = input("Enter the direction you want to move the blank tile (up, down, left, right): ")
         puzzle = move_tile(puzzle, direction)
         print_puzzle(puzzle)
+        
