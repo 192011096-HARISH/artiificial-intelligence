@@ -24,3 +24,4 @@ def bfs(visit_complete, graph, current_node):
                 queue.append(neighbour)
 
 bfs([],graph,'A')
+
