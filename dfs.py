@@ -18,3 +18,4 @@ def dfs(visited, graph, node):
 
 print("Following is the Depth-First Search")
 dfs(visited,graph,'5')
+
