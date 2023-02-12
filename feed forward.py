@@ -21,3 +21,4 @@ for i in range(num_iterations):
     weights2 += layer1.T.dot(layer2_delta) * learning_rate
     weights1 += X.T.dot(layer1_delta) * learning_rate
 print(layer2)
+
