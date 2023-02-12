@@ -43,3 +43,4 @@ clauses
         symptom(Patient,sneezing),
         symptom(Patient,sore_throat),
         symptom(Patient,chills).
+        
