@@ -25,3 +25,4 @@ def N_queens(n):
 N_queens(N)
 for i in board:
     print (i)
+    
