@@ -10,3 +10,4 @@ person("Jim", "Smith", 45, "Teacher").
 find_person(FirstName, LastName, Age, Occupation) :-
     person(FirstName, LastName, Age, Occupation).
     
+    
