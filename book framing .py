@@ -9,3 +9,4 @@ person("Jim", "Smith", 45, "Teacher").
 % Clause to find a person by their first name and last name
 find_person(FirstName, LastName, Age, Occupation) :-
     person(FirstName, LastName, Age, Occupation).
+    
